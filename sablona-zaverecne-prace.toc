@@ -1,0 +1,18 @@
+\babel@toc {czech}{}\relax 
+\contentsline {chapter}{Úvod}{2}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Generování labyrintu}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Recursive backtracker algoritmus}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Vytvoření mřížky labyrintu}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Vyhledání možné cesty}{4}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Odstranění stěny při pohybu skrz labyrint}{5}{subsection.1.1.3}%
+\contentsline {chapter}{\numberline {2}Generace objektů v labyrintu}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Náhodné vytvoření cíle v labyrintu}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Náhodné vytvoření překážek v labyrintu}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Death bariéra}{7}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Hardware}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Využité součástky}{8}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Arduino nano}{8}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}9 DOF senzor - GY-85}{8}{subsection.3.1.2}%
+\contentsline {chapter}{\numberline {4}Spojení hardware a unity}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Automatické detekování portu arduina}{10}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Čtení dat z portu arduina a nastavení rychlosti hráče}{11}{subsection.4.1.1}%
